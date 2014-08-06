@@ -1,3 +1,5 @@
+// testing version managemntes!
+
 jQuery.sap.declare("sap.ui.demo.myFiori.Component");
 
 sap.ui.core.UIComponent.extend("sap.ui.demo.myFiori.Component", {
